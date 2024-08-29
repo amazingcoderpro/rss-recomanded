@@ -4,6 +4,8 @@
 Record those recommended RSS feeds, irregularly and continuously updated
 
 ## 相关推荐
+[RSS 入门指南](https://sspai.com/post/56391)
+
 [常用 RSS 源列表](https://plink.anyfeeder.com/)
 
 [chrome安装rss-subscription-extensio插件](https://chromewebstore.google.com/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
