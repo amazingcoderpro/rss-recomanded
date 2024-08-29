@@ -10,7 +10,7 @@ Record those recommended RSS feeds, irregularly and continuously updated
 
 [RSS阅读器该如何选择](https://sspai.com/post/55050)
 
-[Mac破解版Reeder5.4下载](https://github.com/amazingcoderpro/rss-recomanded/Reeder_5.4_Mac.zip)
+[Mac破解版Reeder5.4下载](https://github.com/amazingcoderpro/rss-recomanded/blob/main/Reeder_5.4_Mac.zip)
 
 [热门RSS源一键导入OPML-1](https://gist.githubusercontent.com/alazycoder101/0db62c571bde5583c7886ecbeefa658a/raw/3e7b2dd2cdfc8ec0f28d38996b3acaf11a560e72/rss.opml)
 
