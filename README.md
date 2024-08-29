@@ -364,4 +364,3 @@ Record those recommended RSS feeds, irregularly and continuously updated
 [![Star History Chart](https://api.star-history.com/svg?repos=amazingcoderpro/rss-recomanded&type=Date)](https://star-history.com/#amazingcoderpro/rss-recomanded&Date)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/rss-recomanded/count.svg) visitor
-git@github.com:amazingcoderpro/rss-recomanded.git
